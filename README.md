@@ -1,3 +1,7 @@
+<img width="1622" height="970" alt="ChatGPT Image Jun 2, 2026, 04_20_03 PM" src="https://github.com/user-attachments/assets/1d536cda-c576-49d1-81f9-208d5de40d99" />
+<img width="1656" height="950" alt="ChatGPT Image Jun 2, 2026, 04_22_09 PM" src="https://github.com/user-attachments/assets/ab439e0a-13c9-4d28-aa73-6fa778673164" />
+
+
 # 🚀 Enterprise RAG Application
 
 A Production-Style Retrieval-Augmented Generation (RAG) application built using FastAPI, LangChain, Groq, Hugging Face Embeddings, FAISS, PostgreSQL, JWT Authentication, and Streamlit.
